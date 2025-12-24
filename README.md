@@ -2,8 +2,7 @@
 A simple wallet application
 
 <p align="center">
-  <img src="Wallet_Project/Assets/img2.jpeg" width="500">
-  <img src="Wallet_Project/Assets/img1.jpeg" width="500">
+  <img src="Wallet_Project/Assets/img2.jpeg">
 </p>
 
 # 💰 C Wallet Application
