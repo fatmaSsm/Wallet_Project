@@ -1,13 +1,9 @@
-# Wallet_Project
+# Wallet_Project ||💰 
 A simple wallet application
 
 <p align="center">
   <img src="Wallet_Project/Assets/img.png">
 </p>
-
-# 💰 C Wallet Application
-
-This project is a console-based wallet application developed in C language.
 
 ## 🚀 Features
 - User registration and login system
