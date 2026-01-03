@@ -25,8 +25,7 @@ A simple wallet application
 User data is stored in a text file and automatically loaded when the program starts.
 
 ## 👩‍💻 Author
-Fatma Susam
-
+- fatmaSsm
 
 
 
