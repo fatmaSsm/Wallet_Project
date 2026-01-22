@@ -3,7 +3,7 @@ A simple wallet application
 
 <p align="center">
   <img src="Wallet_Project/Assets/img.png">
-</p>
+</p> 
 
 ## 🚀 Features
 - User registration and login system 
