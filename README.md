@@ -6,7 +6,7 @@ A simple wallet application
 </p>
 
 ## 🚀 Features
-- User registration and login system
+- User registration and login system 
 - Income and expense tracking
 - Automatic balance calculation
 - Transaction history display
