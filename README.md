@@ -2,7 +2,7 @@
 A simple wallet application
 
 <p align="center">
-  <img src="Wallet_Project/Assets/img.png">
+  <img src="Assets/img.png">
 </p> 
 
 ## 🚀 Features
